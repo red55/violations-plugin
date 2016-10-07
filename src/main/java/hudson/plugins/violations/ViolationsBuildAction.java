@@ -9,7 +9,7 @@ import hudson.model.AbstractBuild;
 import hudson.model.Run;
 import hudson.plugins.violations.hudson.AbstractViolationsBuildAction;
 import hudson.plugins.violations.hudson.maven.ViolationsMavenAggregatedBuildAction;
-
+import hudson.model.Actionable.*;
 import java.util.List;
 import java.util.Map;
 
